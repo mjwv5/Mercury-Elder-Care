@@ -8,8 +8,8 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Home',  url: 'index'}
-- {name: 'Crisis Management', url: 'mangement'}
-- {name: 'Follow Up Services', url: 'services'}
+- {name: 'Crisis Management', url: 'Crisis Management'}
+- {name: 'Follow Up Services', url: 'Follow Up Services'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
