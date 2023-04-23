@@ -2,7 +2,7 @@
 layout: post
 title: "Home"
 author: "Matthew Wheeler"
-categories: facts
+categories: Home
 tags: [sample]
 image: Happy Old Man.jpeg
 ---
