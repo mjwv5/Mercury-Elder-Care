@@ -15,7 +15,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'LinkedIn', link:  'https://www.linkedin.com/company/mercury-care-management/about/?viewAsMember=true'}
+- {icon: 'fa-linkedin-in', link:  'https://www.linkedin.com/company/mercury-care-management/about/?viewAsMember=true'}
 - {icon: 'envelope', link:   'mailto:mjw320@georgetown.edu'}
 
 
