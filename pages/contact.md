@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
-Time to connect with one of our Transition Care Managers!
+<center>Time to connect with one of our Transition Care Managers!</center>
 
 ![title](/assets/img/Team.jpg)
 
-Please call Matthew Wheeler at (757) 555-5555.
+<center>Please call Matthew Wheeler at (757) 555-5555.</center>
