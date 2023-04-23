@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: Home"
+author: "Matthew Wheeler"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: Happy Old Man.jpeg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Mercury Care Management helps families set-up and manage at-home care for their aging loved one. Partnering with businesses as an employee benefit, we connect families with a care transition manager who provides crisis level assistance to families after a major incident or lifestyle change for their elderly parent. By helping employees balance these personal responsibilities, employees can remain more focused at work and get back to work sooner. 
+
+![title](/assets/img/Thinking Woman.jpeg)
+
