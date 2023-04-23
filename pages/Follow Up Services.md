@@ -3,6 +3,14 @@ layout: page
 title: Follow Up Services
 permalink: /follow up services
 ---
-Mercury Care Management helps families set-up and manage at-home care for their aging loved one. Partnering with businesses as an employee benefit, we connect families with a care transition manager who provides crisis level assistance to families after a major incident or lifestyle change for their elderly parent. By helping employees balance these personal responsibilities, employees can remain more focused at work and get back to work sooner. 
+We provide full access to our follow up platform, with full care scheduling and management toolsets, including periodic Care Audits. 
+
+<center>Care Scheduling and Management Toolset</center>
+<center>Ongoing Insurance Best Practices</center>
+<center>Trusted Vendor List</center>
+<center>24/7 Customer Support</center>
+<center>Follow Up Check-in Services</center>
+<center>Periodic Care Audit</center>
+
 
 ![title](/assets/img/Mercury Photo 3.jpeg)
