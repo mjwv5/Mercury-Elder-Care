@@ -3,5 +3,6 @@ layout: page
 title: About
 permalink: /about
 ---
+Mercury Care Management helps families set-up and manage at-home care for their aging loved one. Partnering with businesses as an employee benefit, we connect families with a care transition manager who provides crisis level assistance to families after a major incident or lifestyle change for their elderly parent. By helping employees balance these personal responsibilities, employees can remain more focused at work and get back to work sooner. 
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+![title](/assets/Thinking Woman.jpeg))
