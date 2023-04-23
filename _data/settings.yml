@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Home',  url: 'home'}
+- {name: 'Home',  url: 'index'}
 - {name: 'Crisis Management', url: 'mangement'}
 - {name: 'Follow Up Services', url: 'services'}
 - {name: 'About',              url: 'about'}
