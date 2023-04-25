@@ -13,4 +13,4 @@ When actived, our Transition Care Managers dedicate 10 days to your employee to 
 <center>Vetted Vendor Services and Selection</center>
 
 
-<img src="Mercury Photo 2".jpeg" alt="Mercury Photo 2">
+<img src="Mercury Photo 2.jpeg" alt="Mercury Photo 2">
