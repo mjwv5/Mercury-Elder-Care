@@ -9,5 +9,5 @@ image: Team.jpg
 
 
 
-![image](assets/img/Team.jpg)
+![image](/assets/img/Team.jpg)
 
