@@ -8,5 +8,5 @@ permalink: /contact
 
 
 
-![title](/assets/img/Team.jpg)
+![title](assets/img/Team.jpg)
 
