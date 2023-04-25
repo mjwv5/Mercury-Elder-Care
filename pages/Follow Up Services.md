@@ -14,4 +14,4 @@ We provide full access to our follow up platform, with full care scheduling and 
 
 
 
-<img src="Mercury Photo 3.jpeg" alt="Mercury Photo 3">
+[!Team](/assets/img/Mercury Photo 3.jpeg)
