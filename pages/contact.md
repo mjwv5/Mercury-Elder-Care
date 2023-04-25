@@ -2,11 +2,12 @@
 layout: page
 title: Contact
 permalink: /contact
+image: Team.jpg
 ---
 
 <center>Time to connect you to one of our Transition Care Specialists</center>
 
 
 
-![title](assets/img/Team.jpg)
+![image](assets/img/Team.jpg)
 
