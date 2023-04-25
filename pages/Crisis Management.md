@@ -15,5 +15,5 @@ When actived, our Transition Care Managers dedicate 10 days to your employee to 
 
 
 
-{![image](assets/img/Mercury Photo 2.jpg)}
+![image](assets/img/Mercury Photo 2.jpg)
 
