@@ -2,6 +2,7 @@
 layout: page
 title: Crisis Management
 permalink: /crisis management
+image: Mercury Photo 2.jpeg
 ---
 When actived, our Transition Care Managers dedicate 10 days to your employee to build a robust system of care for their loved one. 
 
@@ -14,5 +15,5 @@ When actived, our Transition Care Managers dedicate 10 days to your employee to 
 
 
 
-![title](/assets/img/Mercury Photo 2.jpeg)
+![image](/assets/img/Mercury Photo 2.jpeg)
 
