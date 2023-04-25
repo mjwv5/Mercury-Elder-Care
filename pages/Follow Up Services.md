@@ -13,4 +13,4 @@ We provide full access to our follow up platform, with full care scheduling and 
 <center>Periodic Care Audit</center>
 
 
-![title](/assets/Mercury Photo 3.jpeg)
+![title](/assets/img/Mercury Photo 3.jpeg)
