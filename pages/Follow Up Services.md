@@ -2,6 +2,7 @@
 layout: page
 title: Follow Up Services
 permalink: /follow up services
+image: Mercury Photo 3.jpeg
 ---
 We provide full access to our follow up platform, with full care scheduling and management toolsets, including periodic Care Audits. 
 
@@ -14,5 +15,5 @@ We provide full access to our follow up platform, with full care scheduling and 
 
 
 
-![title](/assets/img/Mercury Photo 3.jpeg)
+![image](/assets/img/Mercury Photo 3.jpeg)
 
